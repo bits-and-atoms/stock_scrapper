@@ -1,0 +1,97 @@
+[
+  {
+    "company name": "American Express Company (AXP)",
+    "price": "305.38",
+    "percentage change": "(+1.46%)"
+  },
+  {
+    "company name": "Apple Inc. (AAPL)",
+    "price": "254.96",
+    "percentage change": "(-2.24%)"
+  },
+  {
+    "company name": "International Business Machines Corporation (IBM)",
+    "price": "258.85",
+    "percentage change": "(+0.90%)"
+  },
+  {
+    "company name": "GE Aerospace (GE)",
+    "price": "321.93",
+    "percentage change": "(-0.22%)"
+  },
+  {
+    "company name": "Visa Inc. (V)",
+    "price": "310.53",
+    "percentage change": "(+0.51%)"
+  },
+  {
+    "company name": "The Walt Disney Company (DIS)",
+    "price": "101.66",
+    "percentage change": "(+0.12%)"
+  },
+  {
+    "company name": "McDonald's Corporation (MCD)",
+    "price": "330.80",
+    "percentage change": "(+0.84%)"
+  },
+  {
+    "company name": "3M Company (MMM)",
+    "price": "148.98",
+    "percentage change": "(-3.99%)"
+  },
+  {
+    "company name": "JPMorgan Chase \u0026 Co. (JPM)",
+    "price": "289.92",
+    "percentage change": "(+0.15%)"
+  },
+  {
+    "company name": "The Goldman Sachs Group, Inc. (GS)",
+    "price": "791.43",
+    "percentage change": "(-3.92%)"
+  },
+  {
+    "company name": "Salesforce, Inc. (CRM)",
+    "price": "198.79",
+    "percentage change": "(-1.64%)"
+  },
+  {
+    "company name": "Intel Corporation (INTC)",
+    "price": "43.42",
+    "percentage change": "(-5.51%)"
+  },
+  {
+    "company name": "Costco Wholesale Corporation (COST)",
+    "price": "998.47",
+    "percentage change": "(+0.63%)"
+  },
+  {
+    "company name": "Microsoft Corporation (MSFT)",
+    "price": "402.67",
+    "percentage change": "(-0.55%)"
+  },
+  {
+    "company name": "Walmart Inc. (WMT)",
+    "price": "124.34",
+    "percentage change": "(+0.44%)"
+  },
+  {
+    "company name": "The Boeing Company (BA)",
+    "price": "225.00",
+    "percentage change": "(-2.64%)"
+  },
+  {
+    "company name": "Cisco Systems, Inc. (CSCO)",
+    "price": "76.21",
+    "percentage change": "(-3.09%)"
+  },
+  {
+    "company name": "Union Pacific Corporation (UNP)",
+    "price": "253.64",
+    "percentage change": "(-0.18%)"
+  },
+  {
+    "company name": "Verizon Communications Inc. (VZ)",
+    "price": "50.45",
+    "percentage change": "(-1.31%)"
+  }
+]
